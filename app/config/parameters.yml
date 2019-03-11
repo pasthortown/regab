@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 192.168.20.20
+    database_port: 3306
+    database_name: registroab
+    database_user: registroab
+    database_password: reg1str0.abl23
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: ThisTokenIsNotSoSecretChangeIt
